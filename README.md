@@ -1,7 +1,7 @@
 ## Auto checkIn Coresky
 
 ## Description
-Auto checkIn coresky and auto repeat daily
+Auto check-In coresky and repeat daily
 
 <a href="https://share.coresky.com/w3ya8q/tasks-rewards" target="_blank">Register</a>
 
@@ -29,4 +29,3 @@ node index.js
 - Refresh find and copy the token from the request headers
 You will need to replace `YOUR_TOKEN` with your actual Coresky token in the `token.txt`
 
-## 📜 License

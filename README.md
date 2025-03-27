@@ -3,7 +3,7 @@
 ## Description
 Auto check-In coresky and repeat daily
 
-<a href="https://share.coresky.com/w3ya8q/tasks-rewards" target="_blank">Register</a>
+<a href="https://share.coresky.com/59hk62/tasks-rewards" target="_blank">Register</a>
 
 ## Requirements
 -Node.js v18+
@@ -12,7 +12,7 @@ Auto check-In coresky and repeat daily
 ## Installation
 1. clone this repository
 ```bash
-git clone https://github.com/0x-Disciple/Coresky.git
+git clone https://github.com/airdropbomb/Coresky.git
 ```
 2. Install dependcies
 ```bash
